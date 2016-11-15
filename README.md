@@ -1,4 +1,11 @@
 # geogram
-basic introduction to instagram REST API
+Basic introduction to instagram REST API
 
+## Getting Started
+
+```bash
+# Install the dependencies
+npm install
+run dev
+```
 
