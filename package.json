@@ -1,21 +1,22 @@
 {
-    "name": "basic-instagram-REST-API",
-    "preferGlobal": true,
-    "version": "0.0.1",
-    "author": "Wade Kariniemi <wkariniemi@gmail.com>",
-    "description": "Simple Instagram feed",
-    "license": "MIT",
-    "engines": {
-        "node": ">=0.10"
-    },
-    "scripts": {
-        "dev": "lite-server"
-    },
-    "devDependencies": {
-    	"lite-server": "^2.2.2"
-  	},
-    "dependencies": {
-        "express": "~3.4.7",
-        "json-lint": "~0.1.0"
-    }
+  "name": "basic-instagram-REST-API",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "author": "Wade Kariniemi <wkariniemi@gmail.com>",
+  "description": "Simple Instagram feed",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.5",
+    "express": "~3.4.7",
+    "json-lint": "~0.1.0"
+  }
 }

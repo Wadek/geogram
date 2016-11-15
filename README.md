@@ -6,6 +6,6 @@ Basic introduction to instagram REST API
 ```bash
 # Install the dependencies
 npm install
-run dev
+npm run dev
 ```
 
